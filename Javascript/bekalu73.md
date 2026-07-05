@@ -1,4 +1,4 @@
 - **Name:** Bekalu Sisay Itch
-- **GitHub:** [bekalu](https://github.com/bekalu73)
+- **GitHub:** [Bekalu](https://github.com/bekalu73)
 - **Website:** https://bekalu-sisay.vercel.app/
 - **Bio:** Fullstack Developer.
