@@ -217,6 +217,12 @@ and Web Scrapping. Learning and Improving Daily.
 - **Website:** https://sanity-portfolio-tau.vercel.app
 - **Bio:** A full-stack coding ninja with 3 years of experience crafting sleek web and mobile apps.
 
+### Developer 24
+- **Name:** Bekalu Sisay Itch
+- **GitHub:** [bekalu73](https://github.com/bekalu73)
+- **Website:** https://bekalu-sisay.vercel.app/
+- **Bio:** Fullstack Developer.
+
 
 ## .NET
 
